@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{horst2013cascaded}
+F.~Horst, W.~M. Green, S.~Assefa, S.~M. Shank, Y.~A. Vlasov, and B.~J. Offrein,
+  \enquote{Cascaded mach-zehnder wavelength filters in silicon photonics for
+  low loss and flat pass-band wdm (de-) multiplexing,} Optics express
+  \textbf{21}, 11652--11658 (2013).
+
+\bibitem{okamoto2013fabrication}
+K.~Okamoto and K.~Ishida, \enquote{Fabrication of silicon reflection-type
+  arrayed-waveguide gratings with distributed bragg reflectors,} Optics letters
+  \textbf{38}, 3530--3533 (2013).
+
+\bibitem{simard2012apodized}
+A.~D. Simard, N.~Belhadj, Y.~Painchaud, and S.~LaRochelle, \enquote{Apodized
+  silicon-on-insulator bragg gratings,} Photonics Technology Letters, IEEE
+  \textbf{24}, 1033--1035 (2012).
+
+\bibitem{xu2006cascaded}
+Q.~Xu, B.~Schmidt, J.~Shakya, and M.~Lipson, \enquote{Cascaded silicon
+  micro-ring modulators for wdm optical interconnection,} Optics express
+  \textbf{14}, 9431--9435 (2006).
+
+\bibitem{shi2013ultra}
+W.~Shi, H.~Yun, C.~Lin, M.~Greenberg, X.~Wang, Y.~Wang, S.~T. Fard,
+  J.~Flueckiger, N.~A. Jaeger, and L.~Chrostowski, \enquote{Ultra-compact,
+  flat-top demultiplexer using anti-reflection contra-directional couplers for
+  cwdm networks on silicon,} Optics express \textbf{21}, 6733--6738 (2013).
+
+\bibitem{shi2013coupler}
+W.~Shi, H.~Yun, C.~Lin, J.~Flueckiger, N.~A. Jaeger, and L.~Chrostowski,
+  \enquote{Coupler-apodized bragg-grating add--drop filter,} Optics letters
+  \textbf{38}, 3068--3070 (2013).
+
+\end{thebibliography}
