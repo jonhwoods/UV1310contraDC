@@ -1,3 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: UV1310cdc.aux
 The style file: osajnl.bst
 Database file #1: bibli.bib
+Name 2 in "Shi, Wei and Wang, and Lin, Charlie and Yun, Han and Liu, Yang and Baehr-Jones, Tom and Hochberg, Michael and Jaeger, Nicolas AF and Chrostowski, Lukas" has a comma at the end for entry shi2013siliconContraDC
+while executing---line 1341 of file osajnl.bst
+(There was 1 error message)
