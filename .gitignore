@@ -44,3 +44,7 @@ Temporary Items
 UV1310cdc.aux
 UV1310cdc.synctex.gz
 UV1310cdc.log
+*.aux
+*.bbl
+*.log
+*.gz
