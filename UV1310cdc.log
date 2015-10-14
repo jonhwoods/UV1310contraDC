@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.9)  12 OCT 2015 23:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.9)  13 OCT 2015 11:55
 entering extended mode
 **UV1310cdc.tex
 ("C:\Users\Jonathan St-Yves\Documents\GitHub\UV1310contraDC\UV1310cdc.tex"
@@ -867,95 +867,96 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.4> on input line 40.
+(Font)              <7.4> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 43.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 43.
+(Font)              <5> on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
  []
 
-Package epstopdf Info: Source file: <CrossSection2.eps>
-(epstopdf)                    date: 2015-10-12 21:11:34
-(epstopdf)                    size: 2234491 bytes
-(epstopdf)             Output file: <CrossSection2-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-12 21:11:34
-(epstopdf)                    size: 523310 bytes
-(epstopdf)             Command: <epstopdf --outfile=CrossSection2-eps-converted
--to.pdf CrossSection2.eps>
-(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Source file: <CrossSection3.eps>
+(epstopdf)                    date: 2015-10-13 10:54:52
+(epstopdf)                    size: 964422 bytes
+(epstopdf)             Output file: <CrossSection3-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-13 10:54:57
+(epstopdf)                    size: 513996 bytes
+(epstopdf)             Command: <epstopdf --outfile=CrossSection3-eps-converted
+-to.pdf CrossSection3.eps>
+(epstopdf)             \includegraphics on input line 64.
 Package epstopdf Info: Output file is already uptodate.
-<CrossSection2-eps-converted-to.pdf, id=1, 1131.22626pt x 259.97125pt>
-File: CrossSection2-eps-converted-to.pdf Graphic file (type pdf)
+<CrossSection3-eps-converted-to.pdf, id=1, 740.7675pt x 260.975pt>
+File: CrossSection3-eps-converted-to.pdf Graphic file (type pdf)
 
-<use CrossSection2-eps-converted-to.pdf>
-Package pdftex.def Info: CrossSection2-eps-converted-to.pdf used on input line 
-72.
-(pdftex.def)             Requested size: 465.06004pt x 106.87451pt.
+<use CrossSection3-eps-converted-to.pdf>
+Package pdftex.def Info: CrossSection3-eps-converted-to.pdf used on input line 
+64.
+(pdftex.def)             Requested size: 281.85587pt x 99.29895pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package epstopdf Info: Source file: <SingleFilterFig.eps>
-(epstopdf)                    date: 2015-10-12 21:11:34
-(epstopdf)                    size: 1436840 bytes
+(epstopdf)                    date: 2015-10-13 10:45:03
+(epstopdf)                    size: 264434 bytes
 (epstopdf)             Output file: <SingleFilterFig-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-12 21:11:34
-(epstopdf)                    size: 153560 bytes
+(epstopdf)                    date: 2015-10-13 10:54:40
+(epstopdf)                    size: 150872 bytes
 (epstopdf)             Command: <epstopdf --outfile=SingleFilterFig-eps-convert
 ed-to.pdf SingleFilterFig.eps>
-(epstopdf)             \includegraphics on input line 93.
+(epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
-<SingleFilterFig-eps-converted-to.pdf, id=2, 1246.6575pt x 315.1775pt>
+<SingleFilterFig-eps-converted-to.pdf, id=18, 1246.6575pt x 314.17375pt>
 File: SingleFilterFig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use SingleFilterFig-eps-converted-to.pdf>
 Package pdftex.def Info: SingleFilterFig-eps-converted-to.pdf used on input lin
-e 93.
-(pdftex.def)             Requested size: 465.06004pt x 117.57568pt.
- [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+e 81.
+(pdftex.def)             Requested size: 465.06004pt x 117.20123pt.
 Package epstopdf Info: Source file: <WDM.eps>
-(epstopdf)                    date: 2015-10-12 15:55:17
-(epstopdf)                    size: 304839 bytes
+(epstopdf)                    date: 2015-10-13 09:19:22
+(epstopdf)                    size: 309811 bytes
 (epstopdf)             Output file: <WDM-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-10-12 16:31:24
-(epstopdf)                    size: 100380 bytes
+(epstopdf)                    date: 2015-10-13 09:19:22
+(epstopdf)                    size: 100420 bytes
 (epstopdf)             Command: <epstopdf --outfile=WDM-eps-converted-to.pdf WD
 M.eps>
-(epstopdf)             \includegraphics on input line 107.
+(epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
- <WDM-eps-converted-to.pdf, id=19, 907.39pt x 378.41376pt>
+
+<WDM-eps-converted-to.pdf, id=19, 907.39pt x 378.41376pt>
 File: WDM-eps-converted-to.pdf Graphic file (type pdf)
 
 <use WDM-eps-converted-to.pdf>
-Package pdftex.def Info: WDM-eps-converted-to.pdf used on input line 107.
-(pdftex.def)             Requested size: 465.06004pt x 193.94696pt.
- [2 <C:/Users/Jonathan St-Yves/Documents/GitHub/UV1310contraDC/CrossSection2-ep
+Package pdftex.def Info: WDM-eps-converted-to.pdf used on input line 94.
+(pdftex.def)             Requested size: 375.80544pt x 156.72119pt.
+ [2 <C:/Users/Jonathan St-Yves/Documents/GitHub/UV1310contraDC/CrossSection3-ep
 s-converted-to.pdf> <C:/Users/Jonathan St-Yves/Documents/GitHub/UV1310contraDC/
 SingleFilterFig-eps-converted-to.pdf>]
-("C:\Users\Jonathan St-Yves\Documents\GitHub\UV1310contraDC\UV1310cdc.bbl"
+("C:\Users\Jonathan St-Yves\Documents\GitHub\UV1310contraDC\UV1310cdc.bbl")
 [3 <C:/Users/Jonathan St-Yves/Documents/GitHub/UV1310contraDC/WDM-eps-converted
--to.pdf>]) [4]
+-to.pdf>]
 ("C:\Users\Jonathan St-Yves\Documents\GitHub\UV1310contraDC\UV1310cdc.aux") ) 
 Here is how much of TeX's memory you used:
- 5532 strings out of 493921
- 73713 string characters out of 3144844
- 140322 words of memory out of 3000000
- 8591 multiletter control sequences out of 15000+200000
+ 5531 strings out of 493921
+ 73699 string characters out of 3144844
+ 139322 words of memory out of 3000000
+ 8590 multiletter control sequences out of 15000+200000
  72761 words of font info for 76 fonts, out of 3000000 for 9000
  900 hyphenation exceptions out of 8191
- 42i,7n,35p,533b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,6n,35p,922b,232s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C
 :/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files
  (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTeX 2
@@ -970,9 +971,9 @@ am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files (x
 mri10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Fi
 les (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb>
-Output written on UV1310cdc.pdf (4 pages, 994171 bytes).
+Output written on UV1310cdc.pdf (3 pages, 981352 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
